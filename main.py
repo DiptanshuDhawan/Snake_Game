@@ -4,7 +4,7 @@ import random
 pygame.init()
 
 # Screen Size
-width = 900
+width = 909
 height = 600
 
 gameWindow = pygame.display.set_mode((width,height))
